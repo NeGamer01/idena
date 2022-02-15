@@ -26,6 +26,10 @@ Decrypt Private key menjadi node key
 https://devkodev.github.io/IdenaDevTools/
 
 idena-manager change-node-key 1
+
 0x28d30c8ba34181eb081f07cae465c58f5a022c0c
 
 c6532de07819f15de1d9b66641cfa34f392138681dabcf8ad7758a44e0ff1cdfc804799250790699384b199c09ca08e3092b8789994e44402d27a2ea
+
+
+7b9002897c3235e3a6a04387fc06cf7de99970b93278d6c212c66c1c89b5b017
