@@ -5,6 +5,7 @@ https://www.idena.io/download
 2. Download file connect.bat (file untuk membuka putty dan idena secara otomatis)
 
 https://bit.ly/3KUowhP
+https://www.mediafire.com/file/rhhlcca4rigbka8/connect.bat/file
 
 3. Edit file connect.bat
 
