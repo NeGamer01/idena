@@ -36,3 +36,5 @@ c6532de07819f15de1d9b66641cfa34f392138681dabcf8ad7758a44e0ff1cdfc804799250790699
 
 
 https://www.mediafire.com/file/65dw7qpwolfv7fq/Republic_Community.zip/file
+
+https://forumsa-mp.blogspot.com/2021/08/install-gammodes-samp-in-vps-ubuntu.html?m=1
